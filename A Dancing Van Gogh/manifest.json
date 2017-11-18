@@ -1,0 +1,19 @@
+
+{
+  "description": "A Dancing Van Gogh",
+  "manifest_version": 2,
+  "name": "A Dancing Van Gogh",
+  "version": "1.0",
+"homepage_url": "https://github.com/GuoquanXing/Firefox-Extension",
+
+"theme": {
+   "images": {
+      "headerURL": "syz.jpg"
+        },
+   "colors": {
+       "accentcolor": "rgb(164,162,179)",
+	   "textcolor": "#000"
+   }
+ }
+}
+
